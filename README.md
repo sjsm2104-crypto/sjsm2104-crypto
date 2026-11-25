@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sebastián%20Santiz&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Estudiante%20de%20Ingeniería%20de%20Sistemas&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sebasti%C3%A1n%20Santiz&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+con+Next.js+y+React;Python+con+Flask+e+IA+local;Historia%2C+geopolítica+y+videojuegos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Frontend+con+Next.js+y+React;Python+con+Flask+e+IA+local;Historia,+geopol%C3%ADtica+y+videojuegos" alt="Texto animado" />
 
 </div>
 
@@ -22,13 +22,15 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF5YnBybHFzbDR6cGNvbnJvczYyanhvdjg1NHhlODUzeDZzb2lzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JdP2utSfszrdiKirT5/giphy.gif" align="right" height="140"/>
 
-Me gustan la historia y la geopolítica, y leer. En mis ratos libres juego Fortnite, Call of Duty, FC 27, GTA VI, Tennis Clash y SimCity.
+Me gusta leer, sobre todo de historia y geopolítica. Si me pones a hablar de eso no paro, así que mejor no preguntes. Me gusta tanto que también juego roleplays de historia y de guerra, de esos donde cada quien maneja un país, arma alianzas y declara guerras, y siempre hay uno que termina traicionando al aliado.
+
+Cuando no estoy programando estoy jugando algo. Fortnite y COD para partidas rápidas, FC 27 para pelear con el control, GTA VI para perderme horas por el mapa, Tennis Clash cuando solo tengo el celular a mano y SimCity cuando quiero construir una ciudad sin que nadie me declare la guerra.
 
 <br clear="right"/>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJvejc0ZXBoMWFmcTE3c2NyaDlkbWQyZzFiYjU1N3RuMTY5NTRzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6qUdeJ77X7gkg/giphy.gif" align="right" height="140"/>
 
-También juego tenis y fútbol.
+Fuera de la pantalla juego tenis y fútbol. El tenis me gusta porque es uno contra uno y si pierdes no hay a quién echarle la culpa. En el fútbol, Kaká es de mis jugadores favoritos: arrancaba desde mitad de cancha y dejaba a todos atrás como si nada. Y cuando no estoy jugando fútbol, lo estoy viendo.
 
 <br clear="right"/>
 
@@ -71,16 +73,5 @@ Stack: Flask, SQLAlchemy, SQLite, Waitress y JWT en el backend; React y Vite en 
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
-## Estadísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sjsm2104-crypto&show_icons=true&theme=tokyonight&hide_border=true&locale=es"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjsm2104-crypto&layout=compact&theme=tokyonight&hide_border=true&locale=es"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sjsm2104-crypto&theme=tokyonight&hide_border=true&locale=es"/>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
