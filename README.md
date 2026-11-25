@@ -28,7 +28,7 @@ Cuando no estoy programando estoy jugando algo. Fortnite y COD para partidas rá
 
 <br clear="right"/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJvejc0ZXBoMWFmcTE3c2NyaDlkbWQyZzFiYjU1N3RuMTY5NTRzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6qUdeJ77X7gkg/giphy.gif" align="right" height="140"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJvejc0ZXBoMWFmcTE3c2NyaDlkbWQyZzFiYjU1N3RuMTY5NTRzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6qUdeJ77X7gkg/giphy.gif" align="right" height="120"/>
 
 Fuera de la pantalla juego tenis y fútbol. El tenis me gusta porque es uno contra uno y si pierdes no hay a quién echarle la culpa. En el fútbol, Kaká es de mis jugadores favoritos: arrancaba desde mitad de cancha y dejaba a todos atrás como si nada. Y cuando no estoy jugando fútbol, lo estoy viendo.
 
